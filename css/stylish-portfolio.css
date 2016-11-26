@@ -7,6 +7,9 @@
 
 /*Added*/
 
+.icon-OURA_Symbol_Black_RGB:before {
+  content: "\014D";
+}
 
 .bg-primary {
   background-color: #455A64;
@@ -15,6 +18,12 @@
 .text-primary,
 a {
   color: #455A64;
+}
+
+
+.icon-OURA_Symbol_Black_RGB:before {
+ content: "\e900";
+ font-weight: 900;
 }
 
 /* Global Styles */
