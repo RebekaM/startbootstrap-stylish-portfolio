@@ -4,6 +4,19 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+
+/*Added*/
+
+
+.bg-primary {
+  background-color: #455A64;
+}
+
+.text-primary,
+a {
+  color: #455A64;
+}
+
 /* Global Styles */
 
 html,
@@ -183,7 +196,7 @@ hr.small {
 .callout {
     display: table;
     width: 100%;
-    height: 400px;
+    height: 500px;
     color: #fff;
     background: url(../img/callout.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
